@@ -1,4 +1,4 @@
-# 👋 Hi, I’m titiktriani
+# 👋 Hi, I’m JUDIKA
 Seorang pengembang yang bersemangat membangun perangkat lunak bermakna dan belajar setiap hari.
 
 ---
