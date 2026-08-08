@@ -1,5 +1,6 @@
-# 👋 Hi, I’m JUDIKA
-Seorang pengembang yang bersemangat membangun perangkat lunak bermakna dan belajar setiap hari.
+p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=2DD4BF&width=700&lines=judika%20%C2%B7%20he%2Fhim;Full-stack%20Engineer;Open%20to%20collaboration" alt="Typing SVG — judika · he/him | Full-stack Engineer | Open to collaboration" />
+</p>
 
 ---
 
