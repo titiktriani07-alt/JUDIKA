@@ -29,11 +29,11 @@ Saya seorang software engineer yang suka merancang solusi elegan, menghadirkan p
 ---
 
 ## ⭐ Proyek Unggulan
-> Ganti ini dengan repositori asli Anda (format tautan repo: https://github.com/titiktriani07-alt/REPO)
+https://github.com/titiktriani07-alt/
 
-- [project-name](https://github.com/titiktriani07-alt/project-name) — Deskripsi singkat 1 baris tentang apa yang dikerjakan dan mengapa berguna.  
-- [awesome-tool](https://github.com/titiktriani07-alt/awesome-tool) — Deskripsi singkat 1 baris, teknologi yang digunakan, dan dampaknya.  
-- [side-project](https://github.com/titiktriani07-alt/side-project) — Deskripsi singkat 1 baris dan status proyek.
+- [IBM](https://github.com/titiktriani07-alt/IBM) —   
+- [GEMINI](https://github.com/titiktriani07-alt/GEMINI) —   
+- [side-project](https://github.com/titiktriani07-alt/side-project) — 
 
 ---
 
