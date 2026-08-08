@@ -1,5 +1,7 @@
+### 👋 Hi, I’m judika · <small>he/him</small>
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=2DD4BF&width=700&lines=judika%20%C2%B7%20he%2Fhim;Full-stack%20Engineer;Open%20to%20collaboration" alt="Typing SVG — judika · he/him | Full-stack Engineer | Open to collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1800&color=60a5fa&width=600&lines=Building+meaningful+software;Open+to+collaboration" alt="Typing SVG" />
 </p>
 
 ---
