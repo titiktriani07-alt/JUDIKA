@@ -31,9 +31,28 @@ Saya seorang software engineer yang suka merancang solusi elegan, menghadirkan p
 ## ⭐ Proyek Unggulan
 https://github.com/titiktriani07-alt/
 
-- [IBM](https://github.com/titiktriani07-alt/IBM) —   
-- [GEMINI](https://github.com/titiktriani07-alt/GEMINI) —   
-- [side-project](https://github.com/titiktriani07-alt/side-project) — 
+## Proyek Unggulan — AI Tools Hub
+
+**AI Tools Hub** adalah platform web berbasis Python dan Artificial Intelligence yang menggabungkan berbagai tools pintar dalam satu tempat untuk membantu pengguna menyelesaikan pekerjaan secara lebih cepat dan sederhana.
+
+Platform ini dirancang sebagai **AI-powered productivity hub**, dengan fitur seperti AI Assistant, analisis data, pengolahan gambar, generator konten, dan berbagai tools otomatisasi.
+
+### Keunggulan
+
+* 🤖 Memanfaatkan AI untuk menyelesaikan tugas nyata
+* 🛠️ Berbagai tools dalam satu platform
+* ⚡ Mengurangi pekerjaan manual dan berulang
+* 🎯 Antarmuka sederhana dan mudah digunakan
+* 📈 Dapat dikembangkan menjadi platform AI yang lebih besar
+
+### Teknologi
+
+**Python • Flask • HTML • CSS • JavaScript • AI • SQLite • GitHub**
+
+**Konsep utama:**
+
+> **One Platform. Multiple AI Tools. Real-World Solutions.**
+
 
 ---
 
