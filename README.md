@@ -1,4 +1,4 @@
-# 👋 Hi, I’m titiktriani07-alt
+# 👋 Hi, I’m titiktriani
 Seorang pengembang yang bersemangat membangun perangkat lunak bermakna dan belajar setiap hari.
 
 ---
@@ -38,10 +38,7 @@ Saya seorang software engineer yang suka merancang solusi elegan, menghadirkan p
 ---
 
 ## 📫 Hubungi Saya
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Twitter: https://twitter.com/yourhandle  
-- Website / Portofolio: h
+- Email: titiktriani07@gmail.com
 
 ---
 
