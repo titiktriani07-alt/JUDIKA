@@ -112,8 +112,7 @@ Platform ini dirancang sebagai AI-powered productivity hub dengan fitur seperti:
 
 ---
 
-## 📈 Statistik GitHub
-(Opsi: tambahkan gambar statistik dinamis — saya bisa membuatkan Markdown untuk ini jika Anda mau.)  
+  
 
 ---
 
